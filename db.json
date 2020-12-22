@@ -1,0 +1,83 @@
+{
+  "products": [{
+  "id": 1,
+  "name": "Capybara",
+  "category": "Maroon"
+}, {
+  "id": 2,
+  "name": "White-bellied sea eagle",
+  "category": "Khaki"
+}, {
+  "id": 3,
+  "name": "Wallaby, whip-tailed",
+  "category": "Violet"
+}, {
+  "id": 4,
+  "name": "Toucan, white-throated",
+  "category": "Puce"
+}, {
+  "id": 5,
+  "name": "Weeper capuchin",
+  "category": "Mauv"
+}, {
+  "id": 6,
+  "name": "Lemur, sportive",
+  "category": "Pink"
+}, {
+  "id": 7,
+  "name": "Baboon, yellow",
+  "category": "Puce"
+}, {
+  "id": 8,
+  "name": "Woodcock, american",
+  "category": "Khaki"
+}, {
+  "id": 9,
+  "name": "Screamer, crested",
+  "category": "Turquoise"
+}, {
+  "id": 10,
+  "name": "Woodpecker, downy",
+  "category": "Blue"
+}, {
+  "id": 11,
+  "name": "Gerbil (unidentified)",
+  "category": "Purple"
+}, {
+  "id": 12,
+  "name": "Weaver, red-billed buffalo",
+  "category": "Puce"
+}, {
+  "id": 13,
+  "name": "Sungazer, yellow-brown",
+  "category": "Crimson"
+}, {
+  "id": 14,
+  "name": "Ring dove",
+  "category": "Indigo"
+}, {
+  "id": 15,
+  "name": "Porcupine, north american",
+  "category": "Crimson"
+}, {
+  "id": 16,
+  "name": "Rhesus monkey",
+  "category": "Orange"
+}, {
+  "id": 17,
+  "name": "Komodo dragon",
+  "category": "Fuscia"
+}, {
+  "id": 18,
+  "name": "Duck, mountain",
+  "category": "Puce"
+}, {
+  "id": 19,
+  "name": "Onager",
+  "category": "Aquamarine"
+}, {
+  "id": 20,
+  "name": "Deer, black-tailed",
+  "category": "Goldenrod"
+}]
+}
